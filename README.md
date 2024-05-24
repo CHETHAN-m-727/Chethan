@@ -29,7 +29,7 @@ I am a passionate software engineer with a focus on full-stack development. Here
   - **Period:** 18th June 2022 to 15th December 2022 (5 months)
 
 🚀 **Projects**
-- **Weather Project:** A TypeScript-based web application that provides real-time weather information using the Weather API. It allows users to search for weather data by city name and displays the current weather conditions. [Check out the repository](https://github.com/your-username/weather-project)
+- **Weather Project:** A TypeScript-based web application that provides real-time weather information using the Weather API. It allows users to search for weather data by city name and displays the current weather conditions. [Check out the repository](https://github.com/CHETHAN-m-727/weather-ui)
 
 
 📚 **Education**
