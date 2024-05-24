@@ -18,7 +18,7 @@ I am a passionate software engineer with a focus on full-stack development. Here
   
 ## 💼 Current Position
 
-- **Company:** MINDORIGIN Technologies Private Limited
+- **Company:** [MINDORIGIN Technologies Private Limited](https://mindorigin.in/)
   - **Role:** Full Stack Developer
   - **Period:** Since 2nd January 2023
 
